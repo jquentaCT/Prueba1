@@ -1,0 +1,436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inc",
+				"include"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"hea",
+				"header-html"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"wit",
+				"width"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"center",
+				"text-center"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"txt",
+				"text-decoration\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"ico",
+				"icofont-simple-right"
+			],
+			[
+				"he",
+				"heading-main"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"drow",
+				"dropdown-item"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/WorisBueno/Music/index_",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/WorisBueno/Desktop/PSS Sistema Completo/Pagina web CPSS/cpss/nosotros.php",
+		"/C/xampp/htdocs/jhhinversiones/html/carousel-productos.php",
+		"/C/xampp/htdocs/jhhinversiones/css/shortcodes.css",
+		"/C/xampp/htdocs/jhhinversiones/css/style.css",
+		"/C/Users/WorisBueno/Downloads/nosotros.php",
+		"/C/xampp/htdocs/jhhinversiones/nosotros.php",
+		"/C/xampp/htdocs/jhhinversiones/html/footer-html.php",
+		"/C/xampp/htdocs/jhhinversiones/class/class_process.php",
+		"/C/xampp/htdocs/jhhinversiones/html/bottom-html.php",
+		"/C/xampp/htdocs/jhhinversiones/index.php",
+		"/C/xampp/htdocs/jhhinversiones/html/variables-form-pedido.php",
+		"/C/Users/WorisBueno/Desktop/margaritas/ica-full-day_view.php",
+		"/C/xampp/htdocs/jhhinversiones/html/header-html.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/WorisBueno/Desktop/Sistema PSS/Pagina Web - PSS/carousel-productos.php",
+		"/C/Users/WorisBueno/Desktop/Sistema PSS/Pagina Web - PSS/productos.php",
+		"/C/Users/WorisBueno/Desktop/Sistema PSS/Pagina Web - PSS/html/header-html-2022.php",
+		"/C/Users/WorisBueno/Desktop/Sistema PSS/Pagina Web - PSS/html/slider-html.php",
+		"/C/xampp/htdocs/jhhinversiones/html/slider-html.php",
+		"/C/Users/WorisBueno/Downloads/Sin confirmar 600807.crdownload",
+		"/C/xampp/htdocs/jhhinversiones/analisis-de-agregados.php",
+		"/C/xampp/htdocs/jhhinversiones/Vehiculos-Mazda.php",
+		"/C/xampp/htdocs/cpss/html/header-html.php",
+		"/C/xampp/htdocs/jhhinversiones/class/function.php",
+		"/C/xampp/htdocs/J.H.H/index.php",
+		"/C/xampp/htdocs/ejemplo.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/html/header-html-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/index.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/servicios.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/analisis-de-agregados-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/cooling-equipment.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/consumibles-y-suministros-para-laboratorios.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/bioseguridad.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/balanzas.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/bioquimica.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Acero-Estructural-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Suelos-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Mecanica-de-Rocas-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Equipos-generales-Lab-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Bases-de-Carrereteras-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Instrumentos-generales-de-Laboratorio-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Ensayos-en-Asfalto-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Máquinas-de-Ensayo-Universales-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Máquinas-de-Ensayo-Universales.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Ensayo-en-cemento-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Ensayo-en-cemento.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Ensayos-en-hormigón-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Áridos-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Bases-y-Subbases-de-pavimentos-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Mecánica-de-Suelos-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Clasificación-de-Suelos-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Clasificación-de-Suelos.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Clasificación-de-suelos-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Secado-Pesaje-Tamizado-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/contactenos.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/productos.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Cemento-y-Morteros-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Hormigon.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Cemento y Morteros.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Mezclas-Asfalticas-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Ligante-Asfaltico-2022.php",
+		"/C/Users/WorisBueno/Music/Web PSS-Actualizando/Ingenieria-AgroIndustrial-2022.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provisional/css/bootstrap.min.css",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provisional/css/style.css",
+		"/C/Users/WorisBueno/Desktop/index.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provisional/css/Style-index.css",
+		"/C/Users/WorisBueno/Videos/index.php",
+		"/C/Users/WorisBueno/Desktop/productos.php",
+		"/C/Users/WorisBueno/Pictures/MargaritasProvicional/www.margaritastravel.com/es/home_view.php",
+		"/F/Maquinas Virtuales/AutosLimaPeru/margaritastravel.com/es/index.html",
+		"/C/Users/WorisBueno/Pictures/MargaritasProvicional/www.margaritastravel.com/es/nosotros_view.php",
+		"/C/Users/WorisBueno/Pictures/MargaritasProvicional/www.margaritastravel.com/es/tours_view.php",
+		"/C/Users/WorisBueno/Pictures/www.margaritastravel.com/es/home_view.php",
+		"/F/Maquinas Virtuales/AutosLimaPeru/margaritastravel.com/es/tours.html",
+		"/F/Maquinas Virtuales/AutosLimaPeru/margaritastravel.com/es/home.html",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provisional/html/carousel-productos.php",
+		"/C/Users/WorisBueno/Pictures/home_view.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provisional/index.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provisional/rev-slider/revolution/js/source/jquery.themepunch.revolution.js",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provisional/rev-slider/revolution/js/jquery.themepunch.revolution.min.js",
+		"/C/Users/WorisBueno/Music/index.php",
+		"/C/Users/WorisBueno/Downloads/ica-full-day_view.php",
+		"/C/Users/WorisBueno/Downloads/tours_view.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provisional/analisis-de-agregados-woris.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provisional/tamizado-woris.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provisional/html/header-html-woris.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provisional/analisis-de-suelos-en-campo-woris.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provisional/contactenos.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provisional/servicios.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provisional/clientes.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provisional/nosotros.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provisional/No tocar/Productos-Prueba-Woris.php",
+		"/C/Users/WorisBueno/Downloads/header-html-woris.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provisional/html/form-pedido-otros-productos.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provisional/js/process-data-productos.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provicional/analisis-de-agregados-woris.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provicional/index.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provicional/asfalto-woris.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provicional/analisis-de-suelos-en-campo-woris.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provicional/html/header-html-woris.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provicional/analizadores-de-petroleo-combustibles-y-aceites.php",
+		"/C/Users/WorisBueno/Downloads/Alteracion Web Provicional/html/carousel-productos.php",
+		"/C/Users/WorisBueno/Downloads/Compr_TotalOrden.asmx",
+		"/C/Users/WorisBueno/Documents/PSS-Actualizando/CRSTY_Venta/Venta_ViewwCotiz.aspx",
+		"/C/Users/WorisBueno/Documents/PSS-Actualizando/CRSTY_Venta/Venta_RegisCotiz.aspx",
+		"/C/Users/WorisBueno/Documents/PSS-Actualizando/Libra/Cssss/Cssss_Repo1.css",
+		"/C/Users/WorisBueno/Desktop/Alex/mailer/PHPMailer/PHPMailerAutoload.php",
+		"/C/Users/WorisBueno/Desktop/No Arreglar/pedidos.php",
+		"/C/Users/WorisBueno/Downloads/MANUEL/pedidos.php",
+		"/C/xampp/htdocs/cpss/class/config.php",
+		"/C/xampp/htdocs/cpss/class/function.php",
+		"/C/Users/WorisBueno/Desktop/Alex/mailer/index.php",
+		"/C/xampp/htdocs/cpss/pedidos.php",
+		"/C/Users/WorisBueno/Desktop/Alex/pedidos.php",
+		"/C/Users/WorisBueno/Desktop/Alex/class/class_process.php",
+		"/C/Users/WorisBueno/Desktop/Alex/class_process.php",
+		"/C/Users/WorisBueno/Desktop/Alex/productos.php",
+		"/C/Users/WorisBueno/Desktop/No Arreglar/mailer/PHPMailer/PHPMailerAutoload.php",
+		"/C/Users/WorisBueno/Desktop/No Arreglar/class/class_process.php",
+		"/C/Users/WorisBueno/Desktop/Alex/variables-form-pedido.php",
+		"/C/xampp/htdocs/cpss/mailer/PHPMailer/examples/smtp.phps",
+		"/C/xampp/htdocs/cpss/mailer/index.php",
+		"/C/xampp/htdocs/cpss/mailer/PHPMailer/class.phpmailer.php",
+		"/C/xampp/htdocs/cpss/mailer/PHPMailer/PHPMailerAutoload.php",
+		"/C/xampp/htdocs/cpss/class/class_process.php",
+		"/C/xampp/htdocs/cpss/html/variables-form-pedido.php",
+		"/C/Users/WorisBueno/Desktop/No Arreglar/html/carousel-productos.php",
+		"/C/Users/WorisBueno/Desktop/Comparacion/Desarrollador/html/form-pedido-servicios.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"C:\\Users\\WorisBueno\\Desktop\\PSS Sistema Completo\\Pagina web CPSS\\cpss"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"css",
+			".top-transparent nav",
+			"logotipo",
+			".bg-iron ",
+			"bg-iron ",
+			".bg-iron ",
+			"internal",
+			"header",
+			"header internal",
+			"j",
+			"cabe",
+			"encabezado-negro",
+			"encabezado",
+			"logo",
+			">\n",
+			"HORMIGON",
+			"6s",
+			"3s",
+			"            ",
+			">\n",
+			"texto",
+			"text-center",
+			"box",
+			"icofont-simple-right",
+			"heading-main\nheading-main",
+			"9000",
+			"nl2br",
+			"smtpmailer",
+			"nl2br",
+			"smtpmailer",
+			"smtpmailersmtpmailer",
+			"smtpmailer",
+			"email_pedido"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/WorisBueno/Music/index_",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/ActionScript/ActionScript.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 69.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
